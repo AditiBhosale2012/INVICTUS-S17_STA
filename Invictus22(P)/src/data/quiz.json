@@ -1,0 +1,50 @@
+{
+    "data" : [{
+        "question": "When do most girls start having menstrual cycles?",
+        "choices": ["Between 11-14", "Between 10-30", "Between 30-50"],
+        "answer": "Between 11-14",
+        "link" : "https://www.healthline.com/health/womens-health/what-age-do-girls-get-their-period"
+      },
+      {
+        "question": "How long does a typical period last?",
+        "choices": ["A week", "3 days", "3-5 days"],
+        "answer": "3-5 days",
+        "link" : "https://www.healthline.com/health/how-long-does-your-period-last"
+      },
+      {
+        "question": "True or False – A woman's blood flow during periods is always heavy.",
+        "choices": ["True", "False"],
+        "answer": "False",
+        "link" : "https://helloclue.com/articles/cycle-a-z/what's-normal-period-volume-and-heaviness"
+      },
+      {
+        "question": "Which of the following can soothe painful period cramps?",
+        "choices": ["A cold beverage", "Exercise", "Caffeine"],
+        "answer": "Exercise",
+        "link" : "https://womenscarefl.com/health-library-item/how-to-relieve-period-cramps/#:~:text=What%20helps%20cramps%20naturally%20is,from%20your%20cramping%2C%20contracting%20uterus."
+      },
+      {
+        "question": "Which hormone plays a key role in your menstrual cycle?",
+        "choices": ["Oxytocin", "Progesterone", "Luteinising hormone"],
+        "answer": "Progesterone",
+        "link" : "https://elara.care/hormones/menstrual-cycle-hormones-and-their-functions/"
+      },
+      {
+        "question": "The first menstrual flow is called as ___________",
+        "choices": ["Menopause", "Menarche", "Ovulation"],
+        "answer": "Menarche",
+        "link" : "https://www.uofmhealth.org/health-library/aa52216spec#:~:text=Your%20first%20menstrual%20period%20is,or%20as%20late%20as%2015."
+      },
+      {
+        "question": "Which of the following will not result in a miss in the menstrual cycle?",
+        "choices": ["Fertilization of the egg", "Anxiety and stress", "Gyming"],
+        "answer": "Gyming",
+        "link" : "https://www.uofmhealth.org/health-library/mispd/#:~:text=Here%20are%20some%20steps%20you,Healthy%20Eating%20and%20Weight%20Management."
+      },
+      {
+        "question": "Which of the following can lead to a menstrual cycle?",
+        "choices": ["Fertilization of egg", "Unfertilized egg", "Improper sleep"],
+        "answer": "Unfertilized egg",
+        "link" : "https://www.healthline.com/health/why-do-women-have-periods"
+      }]
+}

@@ -1,0 +1,18 @@
+#root{
+    background-color: #ffe0e6;
+}
+.faq-row-wrapper{
+    background-color: #ffe0e6;
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 150px;
+}
+.faq-title{
+    font-family: 'Prata', serif;
+    color: #80001C;
+}
+
+.faq-row {
+    font-family: 'Poppins', sans-serif;
+}
+
