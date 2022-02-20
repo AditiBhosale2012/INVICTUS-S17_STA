@@ -1,6 +1,6 @@
 This project is for Women.Girls who want o learn about Menstural Health and Hygeine.💕🌹 \
-This Website contains fun filled and learning based activities like quizes✨👩‍💻 where user will be able to take quiz and at the end of the quiz result will be s=displayed as well as based upon the result some resources will be provided to user to learn more about Menstural Health and Hygeine👩‍👩‍👧👭.\
-The Website has  CHAT-BOT system where girls/Women can get answers to their questions.🤖👩.\
+This Website contains fun filled and learning based activities like quizes✨👩‍💻 where user will be able to take quiz and at the end of the quiz result will be displayed as well as based upon the result some resources will be provided to user to learn more about Menstural Health and Hygeine👩‍👩‍👧👭.\
+The Website has CHAT-BOT system where girls/Women can get answers to their questions.🤖👩.\
 There is also a FAQ section where young girls can learn about some frequent queries related to menstural health and hygeine.🔥⭐.\
 
 Video Of our Project:🚀💁‍♀️.\
