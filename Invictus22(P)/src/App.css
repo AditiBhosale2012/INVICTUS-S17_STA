@@ -1,132 +1,38 @@
-html,
-body,
-#root {
-  height: 100%;
-  font-family: 'Prata', serif;
-  background-color: #ffe0e6;
-}
-.App .nav{
-background-color: #80001C;
- position: fixed;
- top: 0;
- right: 0;
- font-size: large;
-}
-
-.App .nav .logo{
-  left: 0;
-  color: #ffe0e6;
-   font-family: 'Prata', serif;
-   font-size: 50px;
-   padding-right: 550px;
-}
-
-.App nav a{
-  color: #ffe0e6;
-  font-family: 'Poppins', sans-serif;
-}
-
 .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100%;
-}
-
-.App section{
-  padding-top: 100px;
-  height: 100%;
-  background-color: #ffe0e6;
-}
-
-.App section h1{
-  color: #80001C;
-}
-
-.App section p{
-  font-family: 'Poppins', sans-serif;
-}
-
-.App section p a{
-  background-color: #80001C;
-  border-radius: 5px;
+  font-size: calc(10px + 2vmin);
   color: white;
-  padding: 5px 15px;
-  margin-left: 10px;
-}
- 
-.App section p a:hover{
-  background-color: transparent;
-  border: 2px solid #80001C;
-  color: #80001C;
-}
-.App .card {
-  max-width: 400px;
-  width: 100%;
-  text-align: center;
 }
 
-.App .card .card-content .content h1{
-  color: #80001C;
+.App-link {
+  color: #61dafb;
 }
 
-.App .card .card-content .content h3{
-  color: #80001C;
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
-
-.App .card .card-content .content h2{
-  color: #80001C;
-}
-
-.App .card .card-content .content .mb-5{
-  color: #80001C;
-}
-.App .card .card-content .content p{
-  font-family: 'Poppins', sans-serif;
-}
-
-.App .card .card-content .content button{
-  font-family: 'Poppins', sans-serif;
-  background-color: #80001C;
-  border: none;
-  color: white;
-  padding: 10px 30px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  border-radius: 30px;
-}
-.App .card .card-content .content button:hover{
-  border: 1px solid #80001C;
-  background-color: transparent;
-  color: #80001C;
-}
-
-
-label.radio {
-  font-family: 'Poppins', sans-serif;
-  display: block;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 5px;
-  font-size: 20px;
-  border: 1px solid #ffe0e6;
-  border-radius: 15px;
-  cursor: pointer;
-}
-
-label.radio:hover {
-  border: 2px solid #80001C;
-}
-
-label.radio+.radio {
-  margin-left: 0;
-}
-
-label.radio input {
-  margin-right: 10px;
-}
-
-
